@@ -1,0 +1,168 @@
+body{
+    background-color: lightgrey;
+
+}
+
+.text-center{
+    background-color:#29477d ;
+    letter-spacing: 5;
+    color: white;
+    width: 1200px;
+    margin-left: 40px;
+}
+.name{
+    color: white;
+    background-color:#222659 ;
+    font-size: 9px;
+    font-weight: bold;
+    width:1200px ;
+    height:5300 ;
+    margin-top: -64px;
+    margin-left: -32px;
+    
+
+}
+
+.site{
+    padding-bottom: 20px;
+    margin-left: 20px;
+    
+
+}
+.mn{
+    color: #fdc407;
+    letter-spacing: 5px;
+    padding-top: 80px;
+    letter-spacing: 0.5rem;
+  
+}
+.container{
+    background-color:white ;
+    padding-bottom: 40px;
+    margin-left: 140px;
+    margin-right: 30px;
+    width: 1000px;
+    height: 350px;
+}
+.about{
+    margin-left: -15px;
+    margin-right: 500px;
+    text-align: left;
+    width: 1000px;
+    height: 60px;
+    margin-right:80px;
+    background-color: #fdc407;
+    
+    
+
+}
+.about2{
+    margin-left: 20px;
+}
+.notes{
+    text-align: 20px;
+    padding-left: 190px;
+    margin-right: 39px;
+    width: 700px;
+    margin-left: 50px;
+
+
+}
+
+.image{
+    padding-right: 130px;
+    float:right;
+    width:20px;
+    height:15px;
+    padding-bottom: 40px;
+    margin-top: -225px;
+    margin-left: 20px;
+}
+.hobbies1{
+    background-color:#fdc407 ;
+    margin-top:90px;
+    width: 511px;
+}
+.hobbies2{
+margin-right: 450px;
+    background-color: #fff;
+    margin-top: -8px;
+    margin-left: 1px;
+}
+.notes2{
+    padding-bottom: 80px;
+    margin-left: 30px;
+    margin-right: 30px;
+    width: 450px;
+    height: 350px; 
+}
+.trial{
+    background-color:#fdc407  ;
+    margin-top: 1px;
+}
+.goals{
+    background-color: #fff;
+    margin-top: -380px;
+    margin-right: 150px;
+    margin-left: 550px;
+
+    width: 450px;
+    height: 380px;
+
+    
+   
+}
+
+.table{
+     width:1000px;
+    height:150px; 
+    font-family:sans-serif;
+    text-align:left;
+     margin: 150px; 
+    padding-left: 200px;
+    padding-right: 200px;
+    position: relative;
+    bottom: 120px;
+    margin-bottom: 1030px;
+    margin-top: 590px;
+    margin-left:144px ;
+   
+}
+  td,th{
+    padding:8px;
+    
+  }
+  tr{
+    border-bottom:1px solid ;
+  } 
+   th{
+    background-color:#fdc407;
+    }
+   
+     
+    
+    tr{
+      background-color:#fff;
+    }
+.contacts{
+    background-color: darkblue;
+    margin-top: -1100px;
+    margin-bottom: 100px;
+    width: 1500px;
+    margin-left: 0px;
+}
+.root{
+    color:white;
+    text-align: left;
+    margin-left: 78px;
+}
+.nine{
+    color: white;
+    text-align: left;
+    margin-left: 58px;
+}
+.word{
+    color: yellow;
+    text-align: left;
+    margin-left: 68px;
+}
